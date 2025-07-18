@@ -1,1 +1,7 @@
 em yeu
+Chức năng login version 2
+chức năng v4
+chức năng thêm sản phẩm
+chức năng xóa sản phẩm
+Changing something...
+Thêm chức năng thông tin sản phẩm
